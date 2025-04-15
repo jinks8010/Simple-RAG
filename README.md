@@ -35,12 +35,20 @@ A **vector database** stores these high-dimensional embeddings and allows for ef
 
 ---
 
+## 🖼️ Example Result
+
+Here is an example of how the result looks after querying the PDF:
+
+![Result Image](images/result_image.png)
+
+---
+
 ## 🚀 How to Run Locally
 
 ### 1. Clone the repository
 ```bash
 git clone https://github.com/jinks8010/Simple-RAG
-cd your-repo-name
+cd Simple-RAG
 ```
 ### 2. Create and activate a virtual environment
 ```bash
