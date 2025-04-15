@@ -1,0 +1,16 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtual environments
+rag_env/
+venv/
+.env/
+
+# PDF uploads or user files (optional)
+documents/*.pdf
+
+# System files
+.DS_Store
+Thumbs.db
