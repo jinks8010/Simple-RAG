@@ -64,4 +64,18 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
+---
+
+## 🚀 Deployed URL
+https://huggingface.co/spaces/ajinkya45/SIMPLE-RAG-PDF
+
+## 📎 Notes
+1. This app only supports PDF uploads.
+2. You can modify the collection or LLM as per your needs.
+3. All vector storage is in-memory using Qdrant, so it resets when restarted
+
+## ✨ Future Improvements
+1. Support for multi-page PDFs
+2. Add persistent Qdrant backend
+3. Add chat history and follow-up query support
 
